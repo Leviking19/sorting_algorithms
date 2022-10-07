@@ -164,8 +164,6 @@ Function Prototype:
   * Implements the Least-Significant-Digit (LSD) Radix Sort algorithm.
   * Assumes that the array will only contain numbers `>= 0`.
   * Prints the array for each significant digit increase.
-  * [105-O](./105-O): Text file containing the best, average, and worst case time
-  complexities of the Radix Sort algorithm, one per line.
 
 * **10. Bitonic sort**
   * [106-bitonic_sort.c](./106-bitonic_sort.c): C function that sorts an array of integers
